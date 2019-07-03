@@ -1,4 +1,5 @@
-# TeajeysLibsA set of tools that I created while working on some Java-based passion projects. The highlights and their functions are as follows:
+# TeajeysLibs
+A set of tools that I created while working on some Java-based passion projects. The highlights and their functions are as follows:
 ## SimpleGraphics
 Is a child class of a SunGraphics2D wrapper, the aptly named ​ SunGraphics2DWrapper, ​ whichallows me to override SunGraphics2D’s methods despite its being a final class.
 SimpleGraphics is full of customized implementations of Java’s default 2D drawing methods,so that I can control drawing operations of the graphics component of my programs on myown terms.
