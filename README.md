@@ -9,7 +9,8 @@ A window object that implements SimpleGraphics for drawing. Intended to be used 
 Complex numbers and quaternions are two dimensional and four dimensional numbers,respectively. A complex number is two dimensional, basically, because it’s made up of twonumbers; a quaternion, four numbers. They are very useful in graphics programming. Acomplex number can define a position on a flat plane, such as on a computer screen. Aquaternion can be used to define a position in three or four dimensional space, or a rotationin three dimensional space!
 ## Vector2D & Vector3D
 These vector implementations are what I was using before complex numbers andquaternions. They provide the same results, but I find vectors less elegant 😊
-## RoughOpenSimplexNoiseA copy of Kurt Spencers OpenSimplexNoise Java implementation, with the sumOctave()function that I added in, for generating noise with extra detail.
+## RoughOpenSimplexNoise
+A copy of Kurt Spencers OpenSimplexNoise Java implementation, with the sumOctave()function that I added in, for generating noise with extra detail.
 ## TJNoise
 An extension for RoughOpenSimplexNoise, which adds a few utility functions for making theprocess of generating noise a little easier to think about.
 ## ClassMap
